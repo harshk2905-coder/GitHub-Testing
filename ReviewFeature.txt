@@ -2,9 +2,11 @@ This is a review feature file.
 Adding some new line,
 Just to check the verify feature.
 
-Added this to check the resolve conflicts and 
-Checking whether we can add some more changes 
-to it for verification purpose
+New Changes are implicated and we are going to release
+this soon in the production.
+But here we have not 
+specified 
+anything
 
 This file has some more new changes
 Which are required and important.
