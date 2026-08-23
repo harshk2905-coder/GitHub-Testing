@@ -5,6 +5,7 @@ Just to check the verify feature.
 Added this to check the resolve conflicts and 
 Checking whether we can add some more changes 
 to it for verification purpose
+Also this is a temperory changes.
 
-This file has some more new changes
+This file has some more changes
 Which are required and important.
