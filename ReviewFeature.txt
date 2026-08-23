@@ -1,3 +1,6 @@
 This is a review feature file.
 Adding some new line,
 Just to check the verify feature.
+
+This file has some more new changes
+Which are required and important.
